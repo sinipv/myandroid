@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ranjith/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/Ranjith/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/classes-5c7bc929f1c2c9d5c5e8f2329123dbf9429c5b0d.jar" />
+    </item>
+    <item
+        jar="/Users/Ranjith/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/Ranjith/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-2477dfb593c22ca10ead8aa1a3e27d78f9a9c6bd.jar" />
+    </item>
+    <item
+        jar="/Users/Ranjith/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/Ranjith/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/classes-a1643b26f807434983bfa1c22087140a80ba7b29.jar" />
+    </item>
+    <item
+        jar="/Users/Ranjith/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/Ranjith/AndroidStudioProjects/Sunshine-Version-2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-875534e3205c9f0bdc1932921e29072be15f578c.jar" />
+    </item>
+
+</items>
